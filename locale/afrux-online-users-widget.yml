@@ -8,5 +8,5 @@ afrux-online-users-widget:
       max_users: 'حداکثر کاربران برای نمایش'
   forum:
     widget:
-      empty: 'هیچ کاربری در حال حاضر آنلاین نیست.'
-      title: 'کاربران آنلاین'
+      empty: 'هیچ کاربری در حال حاضر برخط نیست.'
+      title: 'کاربران برخط'
