@@ -6,7 +6,7 @@ afrux-forum-stats-widget:
   forum:
     widget:
       stats:
-        comment_post_count: 'پست ها'
+        comment_post_count: 'نظرات'
         discussion_count: 'بحث ها'
         user_count: کاربران
       title: 'آمار انجمن'
